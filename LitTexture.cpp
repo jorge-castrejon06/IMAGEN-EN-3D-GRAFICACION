@@ -1,7 +1,3 @@
-// LitTexture.cpp
-// OpenGL SuperBible
-// Demonstrates combining lighting and texture
-// Program by Richard S. Wright Jr.
 
 #include <GLTools.h>	// OpenGL toolkit
 #include <GLMatrixStack.h>
